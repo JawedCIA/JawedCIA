@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 30" width="900" height="30" role="presentation">
+  <defs>
+    <linearGradient id="fadeGold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C19A4D" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#C19A4D" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#C19A4D" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <line x1="0" y1="15" x2="380" y2="15" stroke="url(#fadeGold)" stroke-width="1"/>
+  <line x1="520" y1="15" x2="900" y2="15" stroke="url(#fadeGold)" stroke-width="1"/>
+  <circle cx="450" cy="15" r="3" fill="#C19A4D" opacity="0.6"/>
+  <line x1="425" y1="15" x2="440" y2="15" stroke="#C19A4D" stroke-width="1" opacity="0.4"/>
+  <line x1="460" y1="15" x2="475" y2="15" stroke="#C19A4D" stroke-width="1" opacity="0.4"/>
+</svg>

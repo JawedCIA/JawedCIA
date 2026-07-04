@@ -1,0 +1,49 @@
+name: Update Profile README
+
+on:
+  schedule:
+    # Runs every day at 06:00 UTC
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+    # Allows manual trigger from Actions tab
+  push:
+    branches:
+      - main
+    paths:
+      - 'scripts/update-readme.js'
+      - '.github/workflows/update-readme.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Refresh repository showcase
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch repositories and update README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: JawedCIA
+        run: node scripts/update-readme.js
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          if [[ -n $(git status --porcelain README.md) ]]; then
+            git add README.md
+            git commit -m "chore: refresh repository showcase [skip ci]"
+            git push
+          else
+            echo "No changes to README.md"
+          fi

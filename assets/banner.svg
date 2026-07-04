@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Mohammed Jawed - Platform Engineer, Cybersecurity Practitioner, AI Researcher">
+  <defs>
+    <linearGradient id="navyGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1F3A5F"/>
+      <stop offset="50%" stop-color="#2A4A70"/>
+      <stop offset="100%" stop-color="#152840"/>
+    </linearGradient>
+    <linearGradient id="goldAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C19A4D"/>
+      <stop offset="100%" stop-color="#D4B26A"/>
+    </linearGradient>
+    <pattern id="dots" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="12" cy="12" r="1" fill="#C19A4D" opacity="0.15"/>
+    </pattern>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="2"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#navyGradient)"/>
+  <rect width="1200" height="300" fill="url(#dots)"/>
+
+  <!-- Geometric elements suggesting balance and layered systems -->
+  <g opacity="0.08" stroke="#C19A4D" stroke-width="1" fill="none">
+    <circle cx="1050" cy="150" r="120"/>
+    <circle cx="1050" cy="150" r="90"/>
+    <circle cx="1050" cy="150" r="60"/>
+    <line x1="930" y1="150" x2="1170" y2="150"/>
+    <line x1="1050" y1="30" x2="1050" y2="270"/>
+  </g>
+
+  <!-- Balance beam concept, subtle -->
+  <g opacity="0.12" stroke="#C19A4D" stroke-width="1.5" fill="none">
+    <line x1="80" y1="240" x2="380" y2="240"/>
+    <line x1="230" y1="220" x2="230" y2="260"/>
+    <circle cx="120" cy="240" r="4" fill="#C19A4D"/>
+    <circle cx="340" cy="240" r="6" fill="#C19A4D"/>
+  </g>
+
+  <!-- Main name -->
+  <text x="80" y="130" font-family="'Helvetica Neue', Arial, sans-serif" font-size="56" font-weight="700" fill="#FFFFFF" letter-spacing="1">
+    Mohammed Jawed
+  </text>
+
+  <!-- Gold divider -->
+  <line x1="80" y1="150" x2="200" y2="150" stroke="url(#goldAccent)" stroke-width="3"/>
+
+  <!-- Subtitle -->
+  <text x="80" y="185" font-family="'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="400" fill="#C19A4D" letter-spacing="2">
+    PLATFORM ENGINEER · CYBERSECURITY PRACTITIONER · AI RESEARCHER
+  </text>
+
+  <!-- Location + tagline -->
+  <text x="80" y="215" font-family="'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="300" fill="#B8C4D6" letter-spacing="0.5">
+    Vienna, Austria  ·  Building capabilities, not just operating tools
+  </text>
+
+  <!-- Small credential markers -->
+  <g font-family="'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="500" fill="#8FA0B5" letter-spacing="1.5">
+    <text x="80" y="260">IAEA</text>
+    <text x="130" y="260" fill="#3E5678">·</text>
+    <text x="145" y="260">MANNAT AI LABS</text>
+    <text x="255" y="260" fill="#3E5678">·</text>
+    <text x="270" y="260">ICISSP 2024</text>
+    <text x="360" y="260" fill="#3E5678">·</text>
+    <text x="375" y="260">ZENODO PREPRINT</text>
+  </g>
+</svg>
