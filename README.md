@@ -201,6 +201,104 @@ A memoir written after the birth of my son. About fatherhood, work, and the in-b
 ## All Public Projects
 
 <!-- REPOS:START -->
+_Auto-refreshed daily. Last updated: 2026-07-04._
+
+### **[mizaan-eval](https://github.com/JawedCIA/mizaan-eval)**
+
+Reproducible evaluation for Mizaan: a multi-agent LLM scoring system with human-governed memory consolidation.
+
+`Python`
+
+Live: [mizaan.mannatai.com/](https://mizaan.mannatai.com/)
+
+---
+
+### **[c2-commandcenter](https://github.com/JawedCIA/c2-commandcenter)**
+
+The AI-powered CRM that runs your UAE real-estate brokerage and your public website. Battle-tested in production. Demo: c2.mannatai.com
+
+---
+
+### **[muneem-ji](https://github.com/JawedCIA/muneem-ji)**
+
+Aapka Digital Muneem — self-hosted GST billing, POS, inventory & accounting for Indian small businesses.
+
+`JavaScript`
+
+---
+
+### **[PowerShell-Utility](https://github.com/JawedCIA/PowerShell-Utility)**
+
+_No description provided._
+
+`PowerShell`
+
+---
+
+### **[DevToolBox](https://github.com/JawedCIA/DevToolBox)**
+
+DevToolbox is a personal collection of utilities and tools developed for enhancing efficiency in development, automation, and cybersecurity tasks.
+
+`HTML`
+
+---
+
+### **[AIMLDP](https://github.com/JawedCIA/AIMLDP)**
+
+Collection of AI ML DP Codes
+
+`Jupyter Notebook`
+
+---
+
+### **[Assigment](https://github.com/JawedCIA/Assigment)**
+
+First
+
+`Python`
+
+---
+
+### **[Generative-AI-engineering-fellowship](https://github.com/JawedCIA/Generative-AI-engineering-fellowship)**
+
+Personnel Repository for the OutSkill Generative AI Engineering Fellowship – contains assignments, personal projects, and curated resources related to generative AI, LLMs, and applied machine learning.
+
+`Jupyter Notebook`
+
+---
+
+### **[AI-ML-DL-IITK](https://github.com/JawedCIA/AI-ML-DL-IITK)**
+
+IIT Kanpur Certificate Program on PYTHON for Artificial Intelligence Machine Learning and Deep Learning
+
+`Python`
+
+---
+
+### **[JawedCIA.github.io](https://github.com/JawedCIA/JawedCIA.github.io)**
+
+My Personnel Site  Page
+
+`HTML`
+
+---
+
+### **[ArkThor](https://github.com/JawedCIA/ArkThor)**
+
+Threat Categorization Based on Malware’s C2 Communication in PCAP file
+
+`JavaScript` · `asp-net-core` `capstoneproject` `categorization` `containers`
+
+Live: [arkthor.azurewebsites.net/](https://arkthor.azurewebsites.net/)
+
+---
+
+### **[IITK-eMaster-2024](https://github.com/JawedCIA/IITK-eMaster-2024)**
+
+_No description provided._
+
+`Jupyter Notebook`
+
 <!-- REPOS:END -->
 
 <div align="center">
