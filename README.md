@@ -201,7 +201,15 @@ A memoir written after the birth of my son. About fatherhood, work, and the in-b
 ## All Public Projects
 
 <!-- REPOS:START -->
-_Auto-refreshed daily. Last updated: 2026-07-25._
+_Auto-refreshed daily. Last updated: 2026-07-26._
+
+### **[muneem-ji](https://github.com/JawedCIA/muneem-ji)**
+
+Aapka Digital Muneem — self-hosted GST billing, POS, inventory & accounting for Indian small businesses.
+
+`JavaScript`
+
+---
 
 ### **[mizaan-eval](https://github.com/JawedCIA/mizaan-eval)**
 
@@ -216,14 +224,6 @@ Live: [mizaan.mannatai.com/](https://mizaan.mannatai.com/)
 ### **[c2-commandcenter](https://github.com/JawedCIA/c2-commandcenter)**
 
 The AI-powered CRM that runs your UAE real-estate brokerage and your public website. Battle-tested in production. Demo: c2.mannatai.com
-
----
-
-### **[muneem-ji](https://github.com/JawedCIA/muneem-ji)**
-
-Aapka Digital Muneem — self-hosted GST billing, POS, inventory & accounting for Indian small businesses.
-
-`JavaScript`
 
 ---
 
