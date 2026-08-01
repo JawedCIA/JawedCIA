@@ -201,15 +201,7 @@ A memoir written after the birth of my son. About fatherhood, work, and the in-b
 ## All Public Projects
 
 <!-- REPOS:START -->
-_Auto-refreshed daily. Last updated: 2026-07-31._
-
-### **[muneem-ji](https://github.com/JawedCIA/muneem-ji)**
-
-Aapka Digital Muneem — self-hosted GST billing, POS, inventory & accounting for Indian small businesses.
-
-`JavaScript`
-
----
+_Auto-refreshed daily. Last updated: 2026-08-01._
 
 ### **[mizaan-eval](https://github.com/JawedCIA/mizaan-eval)**
 
@@ -298,6 +290,14 @@ Live: [arkthor.azurewebsites.net/](https://arkthor.azurewebsites.net/)
 _No description provided._
 
 `Jupyter Notebook`
+
+---
+
+### **[CS973](https://github.com/JawedCIA/CS973)**
+
+HW
+
+`Python`
 
 <!-- REPOS:END -->
 
