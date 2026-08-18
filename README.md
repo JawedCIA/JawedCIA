@@ -201,7 +201,15 @@ A memoir written after the birth of my son. About fatherhood, work, and the in-b
 ## All Public Projects
 
 <!-- REPOS:START -->
-_Auto-refreshed daily. Last updated: 2026-08-17._
+_Auto-refreshed daily. Last updated: 2026-08-18._
+
+### **[orientation-atlas](https://github.com/JawedCIA/orientation-atlas)**
+
+An interactive orientation page for any field, built as a map of stations you explore one at a time, best used during onboarding or orientation.
+
+`JavaScript`
+
+---
 
 ### **[mizaan-eval](https://github.com/JawedCIA/mizaan-eval)**
 
@@ -290,14 +298,6 @@ Live: [arkthor.azurewebsites.net/](https://arkthor.azurewebsites.net/)
 _No description provided._
 
 `Jupyter Notebook`
-
----
-
-### **[CS973](https://github.com/JawedCIA/CS973)**
-
-HW
-
-`Python`
 
 <!-- REPOS:END -->
 
