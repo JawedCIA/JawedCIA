@@ -201,7 +201,15 @@ A memoir written after the birth of my son. About fatherhood, work, and the in-b
 ## All Public Projects
 
 <!-- REPOS:START -->
-_Auto-refreshed daily. Last updated: 2026-10-27._
+_Auto-refreshed daily. Last updated: 2026-10-28._
+
+### **[ICAART2027](https://github.com/JawedCIA/ICAART2027)**
+
+_No description provided._
+
+`Python`
+
+---
 
 ### **[orientation-atlas](https://github.com/JawedCIA/orientation-atlas)**
 
@@ -290,14 +298,6 @@ Threat Categorization Based on Malware’s C2 Communication in PCAP file
 `JavaScript` · `asp-net-core` `capstoneproject` `categorization` `containers`
 
 Live: [arkthor.azurewebsites.net/](https://arkthor.azurewebsites.net/)
-
----
-
-### **[IITK-eMaster-2024](https://github.com/JawedCIA/IITK-eMaster-2024)**
-
-_No description provided._
-
-`Jupyter Notebook`
 
 <!-- REPOS:END -->
 
