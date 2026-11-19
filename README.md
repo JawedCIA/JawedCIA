@@ -201,7 +201,15 @@ A memoir written after the birth of my son. About fatherhood, work, and the in-b
 ## All Public Projects
 
 <!-- REPOS:START -->
-_Auto-refreshed daily. Last updated: 2026-11-18._
+_Auto-refreshed daily. Last updated: 2026-11-19._
+
+### **[AGENTARIUM3D](https://github.com/JawedCIA/AGENTARIUM3D)**
+
+Agentarium3D: a living world of AI agents. Step inside a 3D floor where every desk is a specialist agent and work moves desk to desk through a delivery pipeline. three.js, no build  step.
+
+`JavaScript`
+
+---
 
 ### **[ICAART2027](https://github.com/JawedCIA/ICAART2027)**
 
@@ -288,16 +296,6 @@ IIT Kanpur Certificate Program on PYTHON for Artificial Intelligence Machine Lea
 My Personnel Site  Page
 
 `HTML`
-
----
-
-### **[ArkThor](https://github.com/JawedCIA/ArkThor)**
-
-Threat Categorization Based on Malware’s C2 Communication in PCAP file
-
-`JavaScript` · `asp-net-core` `capstoneproject` `categorization` `containers`
-
-Live: [arkthor.azurewebsites.net/](https://arkthor.azurewebsites.net/)
 
 <!-- REPOS:END -->
 
