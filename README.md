@@ -201,7 +201,7 @@ A memoir written after the birth of my son. About fatherhood, work, and the in-b
 ## All Public Projects
 
 <!-- REPOS:START -->
-_Auto-refreshed daily. Last updated: 2026-11-22._
+_Auto-refreshed daily. Last updated: 2026-11-23._
 
 ### **[AGENTARIUM3D](https://github.com/JawedCIA/AGENTARIUM3D)**
 
@@ -222,6 +222,14 @@ _No description provided._
 ### **[orientation-atlas](https://github.com/JawedCIA/orientation-atlas)**
 
 An interactive orientation page for any field, built as a map of stations you explore one at a time, best used during onboarding or orientation.
+
+`JavaScript`
+
+---
+
+### **[muneem-ji](https://github.com/JawedCIA/muneem-ji)**
+
+Aapka Digital Muneem — self-hosted GST billing, POS, inventory & accounting for Indian small businesses.
 
 `JavaScript`
 
@@ -288,14 +296,6 @@ Personnel Repository for the OutSkill Generative AI Engineering Fellowship – c
 IIT Kanpur Certificate Program on PYTHON for Artificial Intelligence Machine Learning and Deep Learning
 
 `Python`
-
----
-
-### **[JawedCIA.github.io](https://github.com/JawedCIA/JawedCIA.github.io)**
-
-My Personnel Site  Page
-
-`HTML`
 
 <!-- REPOS:END -->
 
