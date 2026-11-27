@@ -201,7 +201,21 @@ A memoir written after the birth of my son. About fatherhood, work, and the in-b
 ## All Public Projects
 
 <!-- REPOS:START -->
-_Auto-refreshed daily. Last updated: 2026-11-26._
+_Auto-refreshed daily. Last updated: 2026-11-27._
+
+### **[DevToolBox](https://github.com/JawedCIA/DevToolBox)**
+
+DevToolbox is a personal collection of utilities and tools developed for enhancing efficiency in development, automation, and cybersecurity tasks.
+
+`HTML`
+
+---
+
+### **[c2-commandcenter](https://github.com/JawedCIA/c2-commandcenter)**
+
+The AI-powered CRM that runs your UAE real-estate brokerage and your public website. Battle-tested in production. Demo: c2.mannatai.com
+
+---
 
 ### **[AGENTARIUM3D](https://github.com/JawedCIA/AGENTARIUM3D)**
 
@@ -245,25 +259,11 @@ Live: [mizaan.mannatai.com/](https://mizaan.mannatai.com/)
 
 ---
 
-### **[c2-commandcenter](https://github.com/JawedCIA/c2-commandcenter)**
-
-The AI-powered CRM that runs your UAE real-estate brokerage and your public website. Battle-tested in production. Demo: c2.mannatai.com
-
----
-
 ### **[PowerShell-Utility](https://github.com/JawedCIA/PowerShell-Utility)**
 
 _No description provided._
 
 `PowerShell`
-
----
-
-### **[DevToolBox](https://github.com/JawedCIA/DevToolBox)**
-
-DevToolbox is a personal collection of utilities and tools developed for enhancing efficiency in development, automation, and cybersecurity tasks.
-
-`HTML`
 
 ---
 
